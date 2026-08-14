@@ -58,7 +58,7 @@ Skill Grid is a full-stack Learning Management System (LMS) that connects **🧑
 ## 📂 Project Structure
 
 ```
-skill-grod/
+skill-grid/
 ├── backend/
 │   ├── configs/
 │   │   ├── Mail.js            # Email/Nodemailer configuration
